@@ -78,7 +78,6 @@ export default function ProductAdminPage() {
                                         <button className='btn btn-danger' onClick={() => ondelete(product._id as string)}>
                                             <p>Xoá</p>
                                         </button>
-
                                     </td>
                                 </tr>
                             ))
